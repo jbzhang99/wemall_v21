@@ -1,0 +1,6 @@
+<p>
+	$!user.userName,您好!
+</p>
+<p>
+	&nbsp;&nbsp; 您的商品$!{goods.goods_name}被管理员删除！原因是:$!reason
+</p>
